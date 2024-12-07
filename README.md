@@ -1,5 +1,5 @@
 <em>Screenmatch App</em>
-## Descripción delproyecto:
+## Descripción del proyecto:
 En este proyecto se utiliza lo siguiente:
 * Estructura de un Proyecto Spring: Se crea la estructura inicial de un proyecto Spring y se usan los paquetes, clases y el método run.
 * Inferencia de Tipos en Java: Ejemplo práctico de inferencia de tipos con 'var' en el código Java.
